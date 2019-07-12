@@ -1,0 +1,151 @@
+50
+Eugene Hayes, 12, 260
+James Jenkins, 8, 337
+Paul Crocker, 2, 15
+George Korbal, 12, 167
+Pamela Young, 11, 289
+Shirley Belk, 6, 25
+Teresa Carodine, 12, 244
+Lee Waggoner, 21, 184
+Erma Cervantes, 21, 143
+Donna Rempel, 10, 138
+Katy Caldwell, 17, 230
+William Mattioli, 17, 40
+Angela Suzuki, 20, 351
+Alma Fossum, 6, 144
+Kathryn Cloud, 6, 343
+Larry Ward, 3, 67
+Ronnie Rhine, 7, 255
+Patricia Kohler, 13, 157
+Karen Whaley, 12, 270
+Curtis Buchanan, 17, 305
+Thomas Ingram, 21, 62
+Jenny Boyer, 17, 62
+Elizabeth Zuniga, 20, 320
+Kathleen Montgomery, 9, 44
+Bradly Frank, 6, 209
+Michael Wellman, 14, 217
+Jamie Santana, 10, 247
+Katherine Fong, 1, 304
+Evelyn Pierce, 19, 109
+Alease Fisher, 6, 283
+Michele Pineda, 16, 357
+Timothy Doyle, 2, 66
+Dedra Cox, 20, 82
+Pamela Chambers, 2, 64
+Henrietta Huffman, 10, 203
+Juan Volz, 16, 173
+Bruce Mcgowan, 9, 68
+Naomi Dighton, 6, 86
+Jamie Adkins, 8, 96
+Charles Cole, 13, 110
+Kevin Weiss, 16, 20
+Kevin Davis, 1, 355
+Michelle Wadsworth, 10, 295
+Brandon Plante, 6, 210
+Leo Butler, 4, 139
+Kenneth Chacon, 11, 127
+Nancy Perez, 13, 347
+Jessica Coleman, 13, 104
+Gwendolyn Beard, 2, 352
+Lise Humble, 18, 140
+dequeue Michele Pineda
+enqueue Barbara Zimmerman, 3, 345
+dequeue Kevin Davis
+enqueue Douglas Treisch, 14, 12
+enqueue Jonathan Thoburn, 10, 88
+enqueue Curtis Scarlett, 17, 248
+dequeue Angela Suzuki
+enqueue Joyce Dias, 6, 167
+dequeue Gwendolyn Beard
+dequeue Nancy Perez
+enqueue Amy Cope, 15, 363
+dequeue Amy Cope
+enqueue Leroy Klocke, 10, 182
+enqueue Cecil Nordquist, 3, 307
+dequeue Barbara Zimmerman
+dequeue Kathryn Cloud
+enqueue Michele Rappold, 20, 112
+dequeue James Jenkins
+dequeue Elizabeth Zuniga
+enqueue Vincent Jensen, 7, 96
+enqueue Connie Clark, 7, 66
+enqueue Jenni Toevs, 8, 241
+dequeue Curtis Buchanan
+enqueue Everett Lawton, 20, 352
+enqueue Michael Yokoyama, 20, 100
+enqueue Thomas Moseley, 17, 356
+enqueue Eric Chew, 17, 266
+dequeue Thomas Moseley
+dequeue Everett Lawton
+enqueue Rose Hodge, 6, 260
+dequeue Cecil Nordquist
+dequeue Katherine Fong
+enqueue Christopher Gonzalez, 20, 243
+enqueue Anna Terrell, 11, 133
+enqueue Paul Hopkins, 9, 171
+enqueue Raul Cobbley, 7, 351
+dequeue Raul Cobbley
+dequeue Michelle Wadsworth
+enqueue Helen Nieves, 19, 75
+enqueue Jorge Somers, 2, 134
+enqueue Mildred Vance, 14, 174
+dequeue Pamela Young
+dequeue Alease Fisher
+enqueue Tim Sherwood, 6, 345
+dequeue Tim Sherwood
+dequeue Karen Whaley
+dequeue Eric Chew
+dequeue Eugene Hayes
+dequeue Rose Hodge
+dequeue Ronnie Rhine
+dequeue Curtis Scarlett
+dequeue Jamie Santana
+dequeue Christopher Gonzalez
+dequeue Teresa Carodine
+dequeue Jenni Toevs
+dequeue Katy Caldwell
+dequeue Michael Wellman
+dequeue Brandon Plante
+dequeue Bradly Frank
+dequeue Henrietta Huffman
+dequeue Lee Waggoner
+dequeue Leroy Klocke
+dequeue Mildred Vance
+dequeue Juan Volz
+dequeue Paul Hopkins
+dequeue George Korbal
+dequeue Joyce Dias
+dequeue Patricia Kohler
+dequeue Erma Cervantes
+dequeue Lise Humble
+dequeue Alma Fossum
+dequeue Donna Rempel
+dequeue Leo Butler
+dequeue Anna Terrell
+dequeue Jorge Somers
+dequeue Kenneth Chacon
+dequeue Michele Rappold
+dequeue Evelyn Pierce
+dequeue Charles Cole
+dequeue Jessica Coleman
+dequeue Michael Yokoyama
+dequeue Jamie Adkins
+dequeue Vincent Jensen
+dequeue Jonathan Thoburn
+dequeue Dedra Cox
+dequeue Naomi Dighton
+dequeue Helen Nieves
+dequeue Thomas Ingram
+dequeue Jenny Boyer
+dequeue Bruce Mcgowan
+dequeue Connie Clark
+dequeue Larry Ward
+dequeue Timothy Doyle
+dequeue Pamela Chambers
+dequeue William Mattioli
+dequeue Kathleen Montgomery
+dequeue Kevin Weiss
+dequeue Douglas Treisch
+dequeue Shirley Belk
+dequeue Paul Crocker

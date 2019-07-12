@@ -1,0 +1,13 @@
+Statements
+    Assign
+        z
+        1
+    Assign
+        z
+        +
+            +
+                z
+                *
+                    2
+                    3
+            4

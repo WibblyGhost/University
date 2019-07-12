@@ -1,0 +1,21 @@
+0
+enqueue Buford Smith, 19, 38
+enqueue Stephen Carter, 4, 229
+enqueue Tracy Arce, 5, 252
+remove Tracy Arce
+remove Stephen Carter
+dequeue Buford Smith
+enqueue Andrea Aquirre, 13, 326
+remove Andrea Aquirre
+enqueue Claretta Hou, 8, 187
+dequeue Claretta Hou
+enqueue Elda Gruber, 16, 174
+remove Elda Gruber
+enqueue Danielle Torros, 17, 143
+remove Danielle Torros
+enqueue Elizabeth Dixon, 3, 133
+dequeue Elizabeth Dixon
+enqueue Bryant Aronson, 14, 329
+dequeue Bryant Aronson
+enqueue Harry Mckee, 18, 230
+dequeue Harry Mckee

@@ -1,0 +1,76 @@
+50
+Frances Meritt, 18, 359
+Max Richter, 10, 100
+Mary Roundy, 4, 335
+Judith Dixon, 11, 155
+Derrick Jackson, 5, 177
+Brandon Dugan, 8, 63
+Chad Trudeau, 20, 35
+Christopher Downey, 4, 10
+Kimberly Giroux, 15, 73
+Christopher Mortenson, 9, 66
+Karen Blankenship, 3, 236
+William Warren, 21, 59
+Robert Jones, 13, 65
+Concepcion Sistrunk, 12, 249
+James Grimshaw, 16, 293
+Jewel Scott, 10, 248
+Mark Hommel, 11, 97
+Sean Teems, 12, 304
+Christina Miller, 15, 141
+Richard Hettinger, 7, 23
+Gilbert Kreiter, 5, 292
+Dave Weber, 11, 316
+Lonnie Mclemore, 4, 329
+Raymond Martinez, 11, 302
+Trinidad Conway, 17, 259
+Hubert Johnson, 6, 71
+James Gutierrez, 2, 296
+Lashonda Morris, 17, 172
+Ronald Pynes, 8, 176
+Joseph Downey, 1, 279
+James Mackey, 14, 136
+Ellen Turton, 1, 120
+George Warren, 3, 237
+Cheri Shaffer, 13, 221
+Michael Hedges, 8, 229
+Jonathan Sandquist, 4, 38
+Margaret Esquibel, 10, 228
+Lonnie Gilliam, 11, 201
+Jeanne Harrill, 7, 309
+Priscilla Parr, 7, 218
+Andrew Sturgill, 20, 230
+James Walker, 1, 33
+Billy Allen, 19, 145
+Michelle Morton, 17, 16
+Dale Molter, 6, 26
+Doris Wilson, 14, 347
+Danny Smith, 12, 78
+Maria Gonzales, 8, 52
+Jerry Mutch, 2, 362
+Nichole Ngo, 9, 123
+enqueue Richard Tomlin, 8, 225
+enqueue Kelly Fiorentino, 11, 124
+enqueue Jennifer Andrews, 6, 222
+enqueue Jimmy Terry, 16, 291
+enqueue Lynn Clark, 12, 274
+enqueue Bonnie Hurst, 17, 226
+enqueue Herbert Wall, 21, 1
+enqueue Mark Shultz, 18, 142
+enqueue Joann Walls, 4, 132
+enqueue Jonathon Gadsen, 16, 45
+enqueue David Smith, 13, 175
+enqueue Dennis Woodard, 8, 77
+enqueue Hazel Greenhoward, 11, 287
+enqueue Matthew Mcgee, 11, 280
+enqueue Joyce Litzenberg, 19, 261
+enqueue Ruth Baughn, 14, 111
+enqueue Bernard Jones, 7, 163
+enqueue Kristin Ryan, 9, 190
+enqueue Thomas Zamora, 15, 290
+enqueue Lori Ferkovich, 19, 188
+enqueue Archie Shepard, 11, 260
+enqueue Shannon Stoner, 11, 360
+enqueue Johnny Hopkins, 12, 235
+enqueue Richard Newell, 12, 227
+enqueue William Bigley, 7, 292

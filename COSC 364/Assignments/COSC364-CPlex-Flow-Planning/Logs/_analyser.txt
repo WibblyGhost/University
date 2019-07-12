@@ -1,0 +1,354 @@
+
+
+Path3.lp
+
+
+Execution_time: 0.07810seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.14059seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.12497seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.07811seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.07811seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.06248seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.07810seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.07811seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+Execution_time: 0.07811seconds
+Load on transit nodes: {"1": 405.0, "2": 405.0, "3": 405.0, "4": 0.0, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [104.0, ["c92"]]}
+Non-zero capacity link count: 52
+Non-zero capacity links: c11 c13 c21 c23 c31 c32 c33 c41 c42 c43 c51 c52 c53 c61 c62 c63 c71 c72 c73 c81 c82 c83 c91 c92 c93 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39
+
+
+
+Path4.lp
+
+
+Execution_time: 0.20915seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.14059seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.09373seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.09373seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.09373seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.09374seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.12496seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.09371seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+Execution_time: 0.09372seconds
+Load on transit nodes: {"1": 304.0, "2": 303.5, "3": 304.0, "4": 303.5, "5": 0.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93"]]}
+Non-zero capacity link count: 67
+Non-zero capacity links: c11 c14 c21 c22 c24 c31 c32 c34 c41 c42 c43 c44 c51 c52 c53 c54 c61 c62 c63 c64 c71 c72 c73 c74 c81 c82 c83 c84 c91 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49
+
+
+
+Path5.lp
+
+
+Execution_time: 0.14059seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.18282seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.23705seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.14060seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.14059seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.17183seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.35929seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.12497seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+Execution_time: 0.12497seconds
+Load on transit nodes: {"1": 243.0, "2": 243.0, "3": 243.0, "4": 243.0, "5": 243.0, "6": 0.0, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [94.0, ["c93", "c94"]]}
+Non-zero capacity link count: 80
+Non-zero capacity links: c11 c12 c13 c15 c21 c22 c25 c31 c32 c35 c41 c42 c44 c45 c51 c52 c53 c54 c55 c61 c62 c63 c64 c65 c71 c72 c73 c74 c75 c81 c82 c83 c84 c85 c92 c93 c94 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d32 d33 d34 d35 d36 d37 d38 d39 d41 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59
+
+
+
+Path6.lp
+
+
+Execution_time: 0.77408seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.65463seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.59478seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.77020seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.46093seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.59361seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.48100seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.51097seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+Execution_time: 0.46590seconds
+Load on transit nodes: {"1": 202.5, "2": 202.5, "3": 202.5, "4": 202.5, "5": 202.5, "6": 202.5, "7": 0.0, "8": 0.0}
+Maximum cappacity: {"max": [60.0, ["c96"]]}
+Non-zero capacity link count: 106
+Non-zero capacity links: c11 c13 c14 c15 c16 c21 c22 c23 c24 c25 c31 c32 c33 c34 c35 c36 c41 c42 c43 c44 c45 c46 c51 c52 c53 c54 c55 c56 c61 c62 c63 c64 c65 c66 c71 c72 c73 c74 c75 c76 c81 c82 c83 c84 c85 c86 c91 c92 c93 c94 c95 c96 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d35 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69
+
+
+
+Path7.lp
+
+
+Execution_time: 0.60923seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.36429seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.34368seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.31243seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.37491seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.35929seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.32922seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.36920seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+Execution_time: 0.37491seconds
+Load on transit nodes: {"1": 173.5, "2": 173.0, "3": 174.0, "4": 174.0, "5": 174.0, "6": 174.0, "7": 172.5, "8": 0.0}
+Maximum cappacity: {"max": [65.0, ["c83"]]}
+Non-zero capacity link count: 118
+Non-zero capacity links: c11 c12 c13 c15 c16 c17 c21 c22 c23 c24 c25 c26 c27 c31 c32 c33 c34 c35 c36 c37 c41 c42 c43 c44 c45 c46 c47 c51 c52 c53 c54 c55 c56 c57 c61 c62 c63 c64 c65 c66 c67 c72 c73 c74 c75 c76 c77 c81 c83 c84 c85 c86 c87 c92 c93 c94 c95 c96 c97 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d33 d35 d36 d37 d38 d39 d42 d43 d44 d45 d46 d47 d48 d49 d52 d53 d54 d55 d56 d57 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79
+
+
+
+Path8.lp
+
+
+Execution_time: 0.38293seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.28375seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.28118seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.25351seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.26667seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.23394seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.28221seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.24994seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+
+Execution_time: 0.28118seconds
+Load on transit nodes: {"1": 152.0, "2": 152.0, "3": 152.0, "4": 152.0, "5": 152.0, "6": 152.0, "7": 151.0, "8": 152.0}
+Maximum cappacity: {"max": [68.0, ["c95"]]}
+Non-zero capacity link count: 131
+Non-zero capacity links: c11 c12 c13 c14 c16 c17 c18 c21 c22 c23 c24 c25 c27 c31 c32 c33 c34 c36 c37 c38 c41 c42 c43 c44 c45 c46 c47 c48 c51 c52 c54 c55 c56 c57 c58 c61 c62 c63 c64 c66 c67 c68 c71 c73 c74 c75 c76 c77 c78 c82 c83 c84 c85 c87 c88 c91 c93 c94 c95 c96 c97 c98 d11 d12 d13 d14 d15 d16 d17 d18 d19 d21 d22 d23 d24 d25 d26 d27 d28 d29 d31 d32 d33 d34 d36 d37 d38 d39 d41 d42 d43 d44 d45 d46 d47 d48 d49 d51 d52 d53 d54 d55 d56 d58 d59 d61 d62 d63 d64 d65 d66 d67 d68 d69 d71 d72 d73 d74 d75 d76 d77 d78 d79 d81 d82 d83 d84 d85 d86 d87 d89
+

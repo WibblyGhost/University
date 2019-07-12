@@ -1,0 +1,201 @@
+100
+Brian Lubinski, 6, 325
+Louise Stindt, 9, 13
+Lois Crawford, 4, 308
+John Masters, 2, 36
+Ronald Mcclure, 21, 311
+Lewis Burdette, 19, 191
+Latoya Sisk, 15, 6
+Mary Sepe, 4, 320
+Lisa Parker, 13, 90
+Maryann Haynes, 17, 115
+Fred Ramirez, 8, 325
+Johnnie Scruggs, 17, 101
+Alice Ploss, 13, 145
+Bobbi Blass, 15, 63
+Alison Youngblood, 17, 164
+James Cintron, 20, 63
+Burl Nail, 6, 211
+Jennifer Ferebee, 1, 85
+Ernestine Padilla, 8, 266
+Bonnie Oconnor, 21, 30
+Eric Schmitt, 14, 178
+Christopher Cox, 10, 142
+Ricky Masters, 18, 113
+Beverly Mitchell, 19, 214
+Marsha Bejjani, 21, 275
+Richard Thorpe, 1, 229
+Roger Palmer, 5, 205
+Jacob Henry, 17, 161
+Andre Giammarino, 10, 245
+Jay Alford, 5, 54
+Roy Snider, 13, 189
+Kristine Evert, 12, 65
+David Cordero, 5, 286
+Kenneth Blackmon, 19, 332
+David Breazeale, 6, 234
+Dana Kennedy, 18, 64
+William Jackman, 12, 298
+Shawn Fernandez, 14, 341
+Debra Sherer, 20, 35
+Stephanie Wallis, 13, 341
+Chad Forsythe, 11, 164
+Beatrice Tudor, 18, 32
+William Lessard, 14, 338
+Leslie Massengale, 19, 251
+Dan Keirnan, 21, 177
+Arthur Turner, 12, 365
+Dennis Casey, 21, 197
+Mark Lapierre, 11, 297
+Doris Mccarthy, 16, 80
+Donna Hanson, 6, 17
+Ivory Becker, 4, 125
+John Rogillio, 5, 124
+Terry Burke, 15, 277
+Jo Wilkes, 18, 35
+Laura Loffelbein, 11, 80
+Ivan Robertson, 16, 3
+Marie Carrillo, 15, 130
+Dawn Franklin, 11, 341
+Cindi Walton, 4, 159
+Matthew Resch, 8, 181
+Martha Curran, 8, 314
+James Thompson, 15, 81
+Anita Murray, 2, 41
+Paul Kinnard, 13, 125
+Terry Smith, 16, 185
+Pedro Denny, 11, 259
+Patrick Rose, 2, 79
+Anna Clark, 21, 24
+Nancy Hall, 12, 264
+Dale Parker, 7, 62
+Ronald Rosado, 6, 228
+Kelly Flach, 10, 306
+Ivan John, 6, 66
+James Lundin, 17, 361
+Bernice Ray, 15, 269
+Donna Greco, 17, 267
+Charles Zhang, 7, 279
+Gabriela Mclendon, 10, 165
+Sandra Humphrey, 13, 225
+Thomas Acosta, 9, 271
+Jeff Robinson, 15, 102
+Gerald Thomas, 19, 233
+Patricia Posson, 7, 3
+Oscar Motl, 9, 293
+Jeremy Fried, 12, 9
+Anna Smith, 13, 129
+James Lahay, 13, 177
+Yvonne Butler, 2, 23
+Vanessa Harmon, 1, 157
+Sonia Hite, 7, 339
+Mamie Thomas, 20, 355
+Mozelle Kaufman, 10, 121
+Kathleen Carson, 9, 115
+Lena Markovich, 15, 54
+Jesse Acklin, 14, 252
+William Barrett, 6, 304
+Stephanie Hall, 20, 211
+William Valentine, 7, 355
+Norman Hayward, 4, 209
+Jeanette Stone, 1, 214
+enqueue Joseph Mcclain, 7, 57
+enqueue Latoya Zachary, 1, 135
+enqueue Regina Watson, 1, 359
+enqueue Verlene Moody, 2, 239
+enqueue Nicole Farmer, 2, 42
+enqueue Wendell Veselka, 4, 133
+enqueue Sharon Hill, 1, 139
+enqueue Tyrone Richter, 13, 50
+enqueue Gary Hernandez, 21, 299
+enqueue Howard Mills, 7, 287
+enqueue Michael Burns, 13, 206
+enqueue Richard Heffner, 5, 155
+enqueue Louis Gray, 20, 203
+enqueue Victoria Lee, 3, 25
+enqueue Jenifer Mcneil, 8, 250
+enqueue Edna Greene, 5, 23
+enqueue Andrew Sulc, 12, 251
+enqueue Thomas Cortinas, 19, 364
+enqueue Mao Welch, 4, 53
+enqueue Richard Wilson, 20, 199
+enqueue Ruthie Cason, 17, 247
+enqueue Clara Degroot, 14, 2
+enqueue Garry Lindgren, 12, 223
+enqueue Jeffrey Diercks, 9, 66
+enqueue Emma Coppedge, 10, 320
+enqueue Matthew Ross, 10, 171
+enqueue Margaret Schuster, 7, 59
+enqueue Charlie Harris, 12, 308
+enqueue Benjamin Root, 16, 53
+enqueue Joe Franklin, 18, 93
+enqueue Margarita Hardin, 3, 38
+enqueue Ricky Waller, 3, 4
+enqueue Gerda Fitch, 18, 197
+enqueue Patricia Smith, 11, 304
+enqueue Willie Obenshain, 18, 29
+enqueue Rebecca Paredes, 10, 303
+enqueue Frances Radford, 14, 13
+enqueue Lawrence Sutherland, 2, 223
+enqueue Justin Patterson, 8, 63
+enqueue Frances Dardar, 18, 305
+enqueue Charlotte King, 13, 174
+enqueue Catherine Conway, 6, 353
+enqueue Mary Veliz, 13, 207
+enqueue Joyce Bond, 1, 325
+enqueue Carly Browen, 2, 282
+enqueue Thomas Eliott, 19, 18
+enqueue David Ward, 3, 92
+enqueue Phyllis Taylor, 13, 270
+enqueue Jackie Quigley, 2, 348
+enqueue Stephen Pacheco, 8, 125
+enqueue Billie Love, 4, 327
+enqueue Richard Hebert, 1, 233
+enqueue Tina Weaver, 21, 119
+enqueue Jacquelyn Roddam, 15, 354
+enqueue Sharon Carter, 13, 121
+enqueue Matthew Kim, 3, 160
+enqueue Jessica Duncan, 20, 12
+enqueue Paul Dicaprio, 21, 259
+enqueue Eric Thomas, 4, 215
+enqueue Timothy Murray, 3, 224
+enqueue Rose Merten, 15, 363
+enqueue Justin Hinton, 19, 111
+enqueue Donald Bailey, 4, 26
+enqueue James Brown, 8, 128
+enqueue Archie Smith, 17, 321
+enqueue Beth Anderson, 12, 166
+enqueue Suzanne Moniz, 14, 218
+enqueue Jennifer Berg, 17, 8
+enqueue Retha Gomez, 15, 182
+enqueue James Dillon, 18, 310
+enqueue Ida Howard, 6, 232
+enqueue Willard Pham, 3, 142
+enqueue Ida Jones, 16, 97
+enqueue Keith Nestle, 7, 95
+enqueue Madeline Bailey, 20, 245
+enqueue Michael Marashi, 18, 363
+enqueue Thomas Blackmon, 7, 196
+enqueue Kenneth Carbo, 9, 95
+enqueue Ralph Cook, 8, 270
+enqueue Judith Thompson, 8, 275
+enqueue Vernon Harman, 4, 236
+enqueue John Mcinnis, 6, 214
+enqueue Justine Housley, 5, 110
+enqueue David Wood, 19, 32
+enqueue Andrea Tobin, 17, 254
+enqueue Regina Hoover, 21, 158
+enqueue Megan Felice, 5, 81
+enqueue Stephen Lane, 13, 172
+enqueue Gertha Turner, 14, 241
+enqueue Wesley Mabrey, 13, 86
+enqueue Cynthia Gutierrez, 3, 349
+enqueue Thalia Duval, 11, 232
+enqueue Angel Murphy, 3, 222
+enqueue Charles Gentry, 17, 304
+enqueue Lewis Baker, 13, 329
+enqueue Naomi Johnson, 8, 200
+enqueue Nadine Mcmichael, 3, 188
+enqueue Thomas Dunn, 15, 77
+enqueue Linda Stefanski, 19, 149
+enqueue Kerry Spears, 18, 4

@@ -1,0 +1,41 @@
+10
+Carrie Adkins, 9, 113
+Marsha Corney, 15, 56
+Steven Matthews, 21, 31
+Jerome Weisgerber, 2, 108
+William Previte, 7, 281
+Catherine Smith, 21, 321
+Michael Faulkner, 18, 207
+Barbara Schurz, 12, 83
+Sandra Hubbell, 16, 258
+Willie Lemons, 20, 341
+enqueue Gary Sandoval, 2, 24
+enqueue Donna Arbogast, 6, 101
+enqueue Alvin Moretto, 1, 180
+dequeue Willie Lemons
+dequeue Catherine Smith
+enqueue Theresa Misfeldt, 9, 233
+enqueue John Martin, 8, 10
+enqueue Ronald Legendre, 16, 152
+enqueue Darlene Wagner, 10, 113
+dequeue William Previte
+enqueue Cruz Stead, 21, 198
+dequeue Sandra Hubbell
+dequeue Theresa Misfeldt
+enqueue Edgar Thompson, 18, 28
+enqueue Diana Reavis, 9, 37
+dequeue Michael Faulkner
+dequeue Cruz Stead
+dequeue Alvin Moretto
+dequeue Ronald Legendre
+dequeue Darlene Wagner
+dequeue Carrie Adkins
+dequeue Jerome Weisgerber
+dequeue Donna Arbogast
+dequeue Barbara Schurz
+dequeue Marsha Corney
+dequeue Steven Matthews
+dequeue Edgar Thompson
+dequeue Diana Reavis
+dequeue John Martin
+dequeue Gary Sandoval

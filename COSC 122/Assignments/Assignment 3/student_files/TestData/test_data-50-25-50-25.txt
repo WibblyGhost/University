@@ -1,0 +1,151 @@
+50
+Laura Stitt, 8, 340
+Jeff Lake, 7, 122
+Paul Moore, 14, 221
+Carl Smith, 6, 251
+Michael Kuntz, 18, 71
+Deana Dunn, 16, 316
+Sondra Bowles, 4, 236
+Kenneth Isip, 9, 265
+Jonathan Bianchi, 8, 251
+John Chadbourne, 8, 191
+Gloria Bass, 21, 91
+Ernest Forand, 7, 232
+John Sims, 18, 95
+Ruth Grudem, 10, 195
+Doris Blanding, 9, 34
+Larry Look, 18, 160
+Lorraine Berganza, 2, 168
+Joanne Jaquess, 18, 154
+Marion Simcoe, 4, 317
+Lionel Miller, 13, 162
+Jacob Moss, 16, 5
+Dan Calico, 6, 169
+Joyce Mckinley, 7, 111
+Sharon Hendrickson, 8, 289
+Elizabeth Battles, 20, 26
+Loretta Lindsey, 10, 334
+Alice Mcgee, 12, 126
+Jonathan Miller, 7, 235
+Stacey Blazer, 15, 153
+Gertrude Hasan, 8, 195
+Jimmy Willier, 3, 19
+Rhonda Thibodeau, 13, 62
+Lawrence Ramsey, 13, 51
+Ella Simpson, 3, 60
+Claudia Bruce, 13, 215
+Andrew Hepler, 7, 1
+Robert Crawford, 9, 16
+Barbara Porter, 1, 266
+Kenneth Schneider, 15, 253
+Robert Rogers, 18, 347
+Kim Graves, 11, 351
+Agnes Burton, 3, 15
+Mark Mills, 6, 55
+Lisa Sheridan, 9, 26
+Gary Lawrence, 3, 235
+Stephen Allen, 1, 143
+Kenneth Torkelson, 4, 11
+Jane Cluff, 1, 136
+Melanie Nardi, 18, 309
+Leland Crawford, 17, 293
+remove Kenneth Schneider
+enqueue Robert Smith, 20, 112
+enqueue Elizabeth Wynia, 12, 20
+remove Kim Graves
+remove Kenneth Isip
+dequeue Robert Rogers
+enqueue Walter Cantrell, 11, 206
+enqueue Alicia Cisneros, 13, 118
+remove Stacey Blazer
+enqueue Christopher Carlo, 2, 103
+enqueue Kevin Parks, 18, 98
+dequeue Laura Stitt
+enqueue Delbert Specht, 10, 108
+enqueue Marlin Smith, 15, 11
+dequeue Loretta Lindsey
+dequeue Deana Dunn
+enqueue Thomas Moran, 17, 204
+remove Ruth Grudem
+remove Delbert Specht
+dequeue Marion Simcoe
+remove Barbara Porter
+dequeue Melanie Nardi
+enqueue Teresa Dibari, 11, 344
+remove Agnes Burton
+remove Elizabeth Wynia
+remove Jacob Moss
+dequeue Teresa Dibari
+remove Leland Crawford
+remove Mark Mills
+remove Christopher Carlo
+dequeue Sharon Hendrickson
+remove Dan Calico
+remove Jimmy Willier
+enqueue Randall Dumesnil, 20, 143
+dequeue Jonathan Bianchi
+enqueue Katherine Bates, 16, 162
+dequeue Carl Smith
+dequeue Sondra Bowles
+enqueue Maria Bynoe, 19, 24
+enqueue Carrie Ramsour, 5, 332
+dequeue Carrie Ramsour
+dequeue Jonathan Miller
+enqueue Alicia Mullen, 19, 204
+enqueue Margaret Jones, 14, 285
+remove Margaret Jones
+dequeue Gary Lawrence
+dequeue Ernest Forand
+enqueue Marianne Aguilera, 21, 123
+dequeue Paul Moore
+remove Alice Mcgee
+remove Katherine Bates
+dequeue Claudia Bruce
+enqueue Teresa York, 16, 275
+enqueue Bernard West, 8, 303
+enqueue Manuel Graeser, 14, 65
+remove Lionel Miller
+dequeue Bernard West
+dequeue Teresa York
+dequeue Walter Cantrell
+dequeue Alicia Mullen
+remove Robert Crawford
+remove Elizabeth Battles
+remove Kevin Parks
+dequeue Thomas Moran
+enqueue James Lavoie, 10, 25
+enqueue Margaret Weeks, 14, 8
+enqueue Christopher Jackson, 16, 245
+remove Ella Simpson
+enqueue Jose Haynes, 17, 314
+enqueue Donna Gulke, 1, 266
+remove Doris Blanding
+remove Manuel Graeser
+dequeue Jose Haynes
+dequeue Donna Gulke
+dequeue Christopher Jackson
+dequeue Gertrude Hasan
+dequeue John Chadbourne
+dequeue Lorraine Berganza
+dequeue Larry Look
+dequeue Joanne Jaquess
+dequeue Randall Dumesnil
+dequeue Stephen Allen
+dequeue Jane Cluff
+dequeue Marianne Aguilera
+dequeue Jeff Lake
+dequeue Alicia Cisneros
+dequeue Robert Smith
+dequeue Joyce Mckinley
+dequeue John Sims
+dequeue Gloria Bass
+dequeue Michael Kuntz
+dequeue Rhonda Thibodeau
+dequeue Lawrence Ramsey
+dequeue Maria Bynoe
+dequeue James Lavoie
+dequeue Marlin Smith
+dequeue Lisa Sheridan
+dequeue Margaret Weeks
+dequeue Andrew Hepler
+dequeue Kenneth Torkelson
